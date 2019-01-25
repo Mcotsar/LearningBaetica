@@ -328,26 +328,26 @@ number,excavation,type,chronology,exterior_diam,inside_diam,rim_h,rim_w,shape_w,
 88,belen,Dressel E,C,165,90,33,38,9,27,30,18,belen
 89,belen,Dressel E,C,170,140,34,37,9,25,32,17,belen
 1,parlamento,Dressel D,B,170,80,34,41,10,27,38,18,parlamento
-2,parlamento,Dressel G ,,155,85,37,29,11,27,26,38,parlamento
+2,parlamento,Dressel G,,155,85,37,29,11,27,26,38,parlamento
 3,parlamento,Dressel C,A-B,150,80,32,25,9,26,15,27,parlamento
-4,parlamento,Dressel E ,C,170,95,37,32,9,32,30,30,parlamento
+4,parlamento,Dressel E,C,170,95,37,32,9,32,30,30,parlamento
 5,parlamento,Dressel G,C,170,92,33,30,10,29,26,26,parlamento
 6,parlamento,Dressel 23,,170,113,35,31,8,26,26,32,parlamento
 7,parlamento,Dressel 23,,167,105,30,29,9,26,25,25,parlamento
 8,parlamento,Dressel D,B,160,110,30,30,10,26,25,25,parlamento
-9,parlamento,Dressel E ,C,150,100,35,35,10,27,31,20,parlamento
-10,parlamento,Dressel E ,C,150,90,35,34,10,27,31,20,parlamento
+9,parlamento,Dressel E,C,150,100,35,35,10,27,31,20,parlamento
+10,parlamento,Dressel E,C,150,90,35,34,10,27,31,20,parlamento
 11,parlamento,Dressel D,B,170,95,36,32,10,25,31,18,parlamento
 12,parlamento,Dressel 23,,150,90,33,15,10,28,30,35,parlamento
-13,parlamento,Dressel E ,C,170,90,33,43,10,26,40,14,parlamento
+13,parlamento,Dressel E,C,170,90,33,43,10,26,40,14,parlamento
 14,parlamento,Dressel D,B,170,90,40,40,10,30,35,14,parlamento
 15,parlamento,Dressel E,C,173,90,39,40,11,30,38,13,parlamento
-16,parlamento,Dressel E ,C,170,92,33,34,9,25,33,10,parlamento
+16,parlamento,Dressel E,C,170,92,33,34,9,25,33,10,parlamento
 17,parlamento,Dressel E,C,170,90,32,37,9,25,35,12,parlamento
-18,parlamento,Dressel E ,C,170,100,35,40,10,27,36,11,parlamento
+18,parlamento,Dressel E,C,170,100,35,40,10,27,36,11,parlamento
 19,parlamento,Dressel E,C,180,100,36,38,10,25,36,11,parlamento
-20,parlamento,Dressel E ,C,170,90,29,38,10,23,34,13,parlamento
-21,parlamento,Dressel E ,C,170,90,34,36,10,23,30,13,parlamento
+20,parlamento,Dressel E,C,170,90,29,38,10,23,34,13,parlamento
+21,parlamento,Dressel E,C,170,90,34,36,10,23,30,13,parlamento
 22,parlamento,Dressel D,B,180,100,40,41,11,26,37,12,parlamento
 23,parlamento,Dressel D,B,180,100,37,40,11,28,39,14,parlamento
 24,parlamento,Dressel D,B,170,90,33,42,10,29,40,14,parlamento
@@ -356,21 +356,21 @@ number,excavation,type,chronology,exterior_diam,inside_diam,rim_h,rim_w,shape_w,
 27,parlamento,Dressel 23,,165,115,45,29,10,28,23,25,parlamento
 28,parlamento,Dressel 23,,160,100,35,20,8,30,15,24,parlamento
 29,parlamento,Dressel B,A,145,103,35,25,10,33,25,15,parlamento
-30,parlamento,Dressel E ,C,200,130,25,40,13,24,35,26,parlamento
+30,parlamento,Dressel E,C,200,130,25,40,13,24,35,26,parlamento
 31,parlamento,Dressel C,A-B,170,92,36,33,10,32,29,19,parlamento
 32,parlamento,Dressel C,A-B,160,110,35,30,10,35,25,15,parlamento
 33,parlamento,Dressel B,A,150,90,32,24,10,27,15,19,parlamento
 34,parlamento,Dressel C,A-B,160,80,40,26,10,33,18,19,parlamento
-35,parlamento,Dressel G ,C,195,120,42,33,12,33,31,30,parlamento
-36,parlamento,Dressel G ,C,210,130,38,33,11,29,29,17,parlamento
-37,parlamento,Dressel G ,C,190,105,34,38,10,32,36,25,parlamento
-38,parlamento,Dressel G ,C,190,100,35,27,9,30,21,32,parlamento
-39,parlamento,Dressel G ,C,190,100,35,34,9,35,26,28,parlamento
-40,parlamento,Dressel G ,C,185,100,36,30,10,29,24,26,parlamento
-41,parlamento,Dressel G ,C,165,115,39,32,9,25,29,24,parlamento
+35,parlamento,Dressel G,C,195,120,42,33,12,33,31,30,parlamento
+36,parlamento,Dressel G,C,210,130,38,33,11,29,29,17,parlamento
+37,parlamento,Dressel G,C,190,105,34,38,10,32,36,25,parlamento
+38,parlamento,Dressel G,C,190,100,35,27,9,30,21,32,parlamento
+39,parlamento,Dressel G,C,190,100,35,34,9,35,26,28,parlamento
+40,parlamento,Dressel G,C,185,100,36,30,10,29,24,26,parlamento
+41,parlamento,Dressel G,C,165,115,39,32,9,25,29,24,parlamento
 42,parlamento,Dressel E,C,160,90,34,35,10,32,34,16,parlamento
-43,parlamento,Dressel D ,B,170,100,33,38,11,28,34,18,parlamento
-44,parlamento,Dressel E ,C,165,85,34,42,10,26,36,19,parlamento
+43,parlamento,Dressel D,B,170,100,33,38,11,28,34,18,parlamento
+44,parlamento,Dressel E,C,165,85,34,42,10,26,36,19,parlamento
 45,parlamento,Dressel E,C,175,90,35,40,10,26,34,16,parlamento
 46,parlamento,Dressel D,B,170,90,35,40,11,28,35,20,parlamento
 47,parlamento,Dressel D,B,170,90,35,40,10,24,35,22,parlamento
@@ -393,7 +393,7 @@ number,excavation,type,chronology,exterior_diam,inside_diam,rim_h,rim_w,shape_w,
 64,parlamento,Dressel C,A-B,160,100,35,36,11,28,30,10,parlamento
 65,parlamento,Dressel D,B,180,110,38,37,9,27,33,12,parlamento
 66,parlamento,Dressel B,A,140,130,34,21,10,30,7,25,parlamento
-67,parlamento,Dressel E ,C,140,80,34,30,9,30,30,15,parlamento
+67,parlamento,Dressel E,C,140,80,34,30,9,30,30,15,parlamento
 68,parlamento,Dressel B,A,150,110,45,24,9,32,8,34,parlamento
 69,parlamento,Dressel 23,,200,130,28,28,7,26,26,27,parlamento
 70,parlamento,Dressel B,A,150,90,40,27,10,35,16,12,parlamento
@@ -411,61 +411,61 @@ number,excavation,type,chronology,exterior_diam,inside_diam,rim_h,rim_w,shape_w,
 82,parlamento,Dressel B,A,150,90,37,26,11,35,22,14,parlamento
 83,parlamento,Dressel D,B,160,90,35,30,9,28,28,20,parlamento
 84,parlamento,Dressel D,B,170,90,34,29,10,30,22,18,parlamento
-1,Villaseca,Dressel D,B,145,94,39,36,9,26,27,20,villaseca
-2,Villaseca,Dressel E,C,150,87,39,36,9,26,27,20,villaseca
-3,Villaseca,Dressel E,C,140,89,34,33,11,30,29,20,villaseca
-4,Villaseca,Dressel E,C,150,80,38,36,12,31,32,25,villaseca
-5,Villaseca,Dressel E,C,157,87,35,35,11,27,30,27,villaseca
-6,Villaseca,Dressel D,B,185,80,36,36,11,29,30,19,villaseca
-7,Villaseca,Dressel E,C,160,85,32,36,10,27,31,24,villaseca
-8,Villaseca,Dressel D,B,150,87,36,35,10,28,29,22,villaseca
-9,Villaseca,Dressel D,B,160,95,36,36,10,34,34,28,villaseca
-10,Villaseca,Dressel D,B,170,93,39,36,9,28,31,15,villaseca
-11,Villaseca,Dressel G,C,150,87,36,34,10,27,30,20,villaseca
-12,Villaseca,Dressel G,C,165,85,34,38,12,31,28,32,villaseca
-13,Villaseca,Dressel E,C,175,102,25,30,10,26,26,19,villaseca
-14,Villaseca,Dressel E,C,162,90,36,30,11,30,27,20,villaseca
-15,Villaseca,Dressel D,B,170,110,37,37,11,31,30,17,villaseca
-16,Villaseca,Dressel D,B,150,83,34,36,12,32,33,18,villaseca
-17,Villaseca,Dressel E,C,160,80,37,36,11,32,34,27,villaseca
-18,Villaseca,Dressel E,C,130,110,37,32,10,32,23,22,villaseca
-19,Villaseca,Dressel D,B,180,105,39,36,11,30,35,16,villaseca
-20,Villaseca,Dressel D,B,160,103,37,36,10,30,32,26,villaseca
-21,Villaseca,Dressel E,C,155,96,39,33,10,32,29,20,villaseca
-22,Villaseca,Dressel E,C,167,90,39,37,10,32,32,25,villaseca
-23,Villaseca,Dressel E,C,130,110,30,34,10,30,28,20,villaseca
-24,Villaseca,Dressel E,C,180,100,35,37,12,30,31,18,villaseca
-25,Villaseca,Dressel D,B,160,90,38,34,10,34,30,25,villaseca
-26,Villaseca,Dressel E,C,170,93,33,34,11,33,31,14,villaseca
-27,Villaseca,Dressel E,C,160,100,30,32,11,27,28,19,villaseca
-28,Villaseca,Dressel D,B,160,100,37,39,11,35,33,20,villaseca
-29,Villaseca,Dressel E,C,160,90,40,34,10,32,32,14,villaseca
-30,Villaseca,Dressel D,B,160,90,40,35,10,32,30,24,villaseca
-31,Villaseca,Dressel C,A-B,160,80,37,34,10,31,20,15,villaseca
-32,Villaseca,Dressel C,A-B,160,93,42,32,10,36,18,22,villaseca
-33,Villaseca,Dressel D,B,155,90,40,30,10,30,24,18,villaseca
-34,Villaseca,Dressel E,C,160,98,35,36,10,32,32,26,villaseca
-35,Villaseca,Dressel E,C,150,110,29,31,10,32,30,27,villaseca
-36,Villaseca,Dressel D,B,154,87,30,35,10,28,30,25,villaseca
-37,Villaseca,Dressel D,B,152,84,34,36,10,28,29,24,villaseca
-38,Villaseca,Dressel E,C,140,80,37,37,10,32,34,25,villaseca
-39,Villaseca,Dressel E,C,145,85,34,36,10,27,31,27,villaseca
-40,Villaseca,Dressel E,C,135,83,33,32,11,23,31,21,villaseca
-41,Villaseca,Dressel D,B,165,90,38,39,11,27,37,17,villaseca
-42,Villaseca,Dressel D,B,180,100,40,39,10,33,34,18,villaseca
-43,Villaseca,Dressel D,B,182,97,37,40,11,27,36,15,villaseca
-44,Villaseca,Dressel E,C,162,87,37,41,12,24,35,27,villaseca
-45,Villaseca,Dressel D,B,183,95,35,41,11,22,38,19,villaseca
-46,Villaseca,Dressel D,B,172,95,38,40,11,33,32,15,villaseca
-47,Villaseca,Dressel G,C,144,103,30,32,10,32,30,30,villaseca
-48,Villaseca,Dressel E,C,165,90,39,38,12,25,34,21,villaseca
-49,Villaseca,Dressel G,C,157,88,34,35,11,25,31,26,villaseca
-50,Villaseca,Dressel G,C,150,85,28,31,12,26,30,19,villaseca
-51,Villaseca,Dressel E,C,170,91,30,40,11,24,32,21,villaseca
-52,Villaseca,Dressel D,B,175,100,41,40,10,29,39,18,villaseca
-53,Villaseca,Dressel D,B,180,100,43,39,11,29,39,18,villaseca
-54,Villaseca,Dressel D,B,175,100,43,42,11,29,39,18,villaseca
-55,Villaseca,Dressel D,B,155,90,36,37,11,32,34,16,villaseca
-56,Villaseca,Dressel C,A-B,150,80,37,34,11,35,27,14,villaseca
-57,Villaseca,Dressel E,C,160,90,36,29,9,34,26,15,villaseca
-58,Villaseca,Dressel D,B,150,100,41,29,10,29,27,14,villaseca
+1,villaseca,Dressel D,B,145,94,39,36,9,26,27,20,villaseca
+2,villaseca,Dressel E,C,150,87,39,36,9,26,27,20,villaseca
+3,villaseca,Dressel E,C,140,89,34,33,11,30,29,20,villaseca
+4,villaseca,Dressel E,C,150,80,38,36,12,31,32,25,villaseca
+5,villaseca,Dressel E,C,157,87,35,35,11,27,30,27,villaseca
+6,villaseca,Dressel D,B,185,80,36,36,11,29,30,19,villaseca
+7,villaseca,Dressel E,C,160,85,32,36,10,27,31,24,villaseca
+8,villaseca,Dressel D,B,150,87,36,35,10,28,29,22,villaseca
+9,villaseca,Dressel D,B,160,95,36,36,10,34,34,28,villaseca
+10,villaseca,Dressel D,B,170,93,39,36,9,28,31,15,villaseca
+11,villaseca,Dressel G,C,150,87,36,34,10,27,30,20,villaseca
+12,villaseca,Dressel G,C,165,85,34,38,12,31,28,32,villaseca
+13,villaseca,Dressel E,C,175,102,25,30,10,26,26,19,villaseca
+14,villaseca,Dressel E,C,162,90,36,30,11,30,27,20,villaseca
+15,villaseca,Dressel D,B,170,110,37,37,11,31,30,17,villaseca
+16,villaseca,Dressel D,B,150,83,34,36,12,32,33,18,villaseca
+17,villaseca,Dressel E,C,160,80,37,36,11,32,34,27,villaseca
+18,villaseca,Dressel E,C,130,110,37,32,10,32,23,22,villaseca
+19,villaseca,Dressel D,B,180,105,39,36,11,30,35,16,villaseca
+20,villaseca,Dressel D,B,160,103,37,36,10,30,32,26,villaseca
+21,villaseca,Dressel E,C,155,96,39,33,10,32,29,20,villaseca
+22,villaseca,Dressel E,C,167,90,39,37,10,32,32,25,villaseca
+23,villaseca,Dressel E,C,130,110,30,34,10,30,28,20,villaseca
+24,villaseca,Dressel E,C,180,100,35,37,12,30,31,18,villaseca
+25,villaseca,Dressel D,B,160,90,38,34,10,34,30,25,villaseca
+26,villaseca,Dressel E,C,170,93,33,34,11,33,31,14,villaseca
+27,villaseca,Dressel E,C,160,100,30,32,11,27,28,19,villaseca
+28,villaseca,Dressel D,B,160,100,37,39,11,35,33,20,villaseca
+29,villaseca,Dressel E,C,160,90,40,34,10,32,32,14,villaseca
+30,villaseca,Dressel D,B,160,90,40,35,10,32,30,24,villaseca
+31,villaseca,Dressel C,A-B,160,80,37,34,10,31,20,15,villaseca
+32,villaseca,Dressel C,A-B,160,93,42,32,10,36,18,22,villaseca
+33,villaseca,Dressel D,B,155,90,40,30,10,30,24,18,villaseca
+34,villaseca,Dressel E,C,160,98,35,36,10,32,32,26,villaseca
+35,villaseca,Dressel E,C,150,110,29,31,10,32,30,27,villaseca
+36,villaseca,Dressel D,B,154,87,30,35,10,28,30,25,villaseca
+37,villaseca,Dressel D,B,152,84,34,36,10,28,29,24,villaseca
+38,villaseca,Dressel E,C,140,80,37,37,10,32,34,25,villaseca
+39,villaseca,Dressel E,C,145,85,34,36,10,27,31,27,villaseca
+40,villaseca,Dressel E,C,135,83,33,32,11,23,31,21,villaseca
+41,villaseca,Dressel D,B,165,90,38,39,11,27,37,17,villaseca
+42,villaseca,Dressel D,B,180,100,40,39,10,33,34,18,villaseca
+43,villaseca,Dressel D,B,182,97,37,40,11,27,36,15,villaseca
+44,villaseca,Dressel E,C,162,87,37,41,12,24,35,27,villaseca
+45,villaseca,Dressel D,B,183,95,35,41,11,22,38,19,villaseca
+46,villaseca,Dressel D,B,172,95,38,40,11,33,32,15,villaseca
+47,villaseca,Dressel G,C,144,103,30,32,10,32,30,30,villaseca
+48,villaseca,Dressel E,C,165,90,39,38,12,25,34,21,villaseca
+49,villaseca,Dressel G,C,157,88,34,35,11,25,31,26,villaseca
+50,villaseca,Dressel G,C,150,85,28,31,12,26,30,19,villaseca
+51,villaseca,Dressel E,C,170,91,30,40,11,24,32,21,villaseca
+52,villaseca,Dressel D,B,175,100,41,40,10,29,39,18,villaseca
+53,villaseca,Dressel D,B,180,100,43,39,11,29,39,18,villaseca
+54,villaseca,Dressel D,B,175,100,43,42,11,29,39,18,villaseca
+55,villaseca,Dressel D,B,155,90,36,37,11,32,34,16,villaseca
+56,villaseca,Dressel C,A-B,150,80,37,34,11,35,27,14,villaseca
+57,villaseca,Dressel E,C,160,90,36,29,9,34,26,15,villaseca
+58,villaseca,Dressel D,B,150,100,41,29,10,29,27,14,villaseca
