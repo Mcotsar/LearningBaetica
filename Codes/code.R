@@ -62,7 +62,7 @@ DAmodel <- lda(testData[,1:8], testData$site, prior=c(1,1,1,1,1)/5)
 DAclass <- predict(DAmodel, testData[,1:8])
 # compute confusion matrix
 testData$class <- DAclass$class
-cm <- confusionMatrix(testData$class, testData$site)$table
+cm <- confusionMatrix(testData$class, as.factor(testData$site))$table
 # remove diagonal
 cm[1,1] = cm[2,2] = cm[3,3] = cm[4,4] = cm[5,5] = NA
 # get percentage of errors
